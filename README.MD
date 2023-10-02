@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Krypton-1337&label=Profile%20views&color=0047AB&style=plastic?" alt="Krypton" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=Byte-1337&label=Profile%20views&color=0047AB&style=plastic?" alt="Byte-X" height=25px, width=160px/> 
 </p>
 
 	
@@ -29,14 +29,9 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:nottmohamed.elzahab@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Krypton-1337"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-
-	
+	<a href="https://github.com/Byte-1337"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </p>
-
-
-![Discord Banner 1](https://discordapp.com/api/guilds/1157897632904138812/widget.png?style=banner1)
 
 
 ## 🛠️ My Skills
@@ -52,16 +47,13 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
   </a>
-   <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank">
+  &emsp;
+   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.w3schools.com/html/" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
 </p>
 
-
-
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
