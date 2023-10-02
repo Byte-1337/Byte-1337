@@ -36,7 +36,7 @@
 </p>
 
 
-![Discord Banner 1](https://discordapp.com/api/guilds/913921864169041960/widget.png?style=banner1)
+![Discord Banner 1](https://discordapp.com/api/guilds/1157897632904138812/widget.png?style=banner1)
 
 
 ## 🛠️ My Skills
@@ -46,11 +46,14 @@
 <p align="center"> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
+  </a>
+   <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
 </p>
 
